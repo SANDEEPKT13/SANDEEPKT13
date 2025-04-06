@@ -1,12 +1,13 @@
 - 👋 Hi, I’m SANDEEP KUMAR
-- 👀 I’m interested in frontend development, data science, and gamified learning.
-- 🌱 I’m currently learning advanced web development and data science tools.
-- 💞️ I’m looking to collaborate on hackathon projects and interactive tools for education.
-- 📫 How to reach me: EMAIL - Sandeepkumar57982@gmail.com   LINKEDIN - www.linkedin.com/in/sandeep-kumar-8782382a8
+- 💻 Aspiring Frontend Developer | Data Science Enthusiast | Gamified Learning Advocate
+- 🎯 I'm passionate about building intuitive user interfaces, exploring data-driven insights, and creating 
+      engaging educational experiences through interactive technologies.
+- 📚 Currently deepening my skills in advanced web development and modern data science tools.
+- 🤝 Open to collaborations on hackathons, educational platforms, and interactive learning tools.
+- 📬 Get in touch:
+- ✉️ Email: Sandeepkumar57982@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/sandeep-kumar-8782382a8
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy anime, light novels, and creating tech solutions for real-world problems.
 
-<!---
-SANDEEPKT13/SANDEEPKT13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
